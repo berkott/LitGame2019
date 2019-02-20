@@ -1,1 +1,2 @@
-# LitGame2019
+# TheGamePalace
+A Simple Retro Gaming Website
